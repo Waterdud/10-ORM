@@ -1,0 +1,6 @@
+@Elektrikulu_HostAddress = http://localhost:5038
+
+GET {{Elektrikulu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
